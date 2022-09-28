@@ -7,8 +7,8 @@
 
 #import <UIKit/UIKit.h>
 
-#import "IGListAdapter.h"
-#import "IGListCollectionViewDelegateLayout.h"
+#import <IGListKit/IGListAdapter.h>
+#import <IGListKit/IGListCollectionViewDelegateLayout.h>
 
 @interface IGListAdapter (UICollectionView)
 <
